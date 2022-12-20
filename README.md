@@ -30,5 +30,3 @@
   <img alig="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <br/>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=guilhermecamboim&theme=merko)](https://github.com/guilhermecamboim/github-readme-activity-graph)

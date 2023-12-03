@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermecamboim&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermecamboim" /> </p>
 
-- 🚀 I’m currently a consultant at Fiserv, working in plataform financial [Portal Carat](https://www.fiserv.com.br/carat/?utm_source=Google&utm_medium=Paid&utm_campaign=Carat&utm_term=AD_Carat_Google_Search_Conversao_Produto&utm_content=search-responsivo&gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqSOAVHzwldyzr2-BCKCMYYHxn9SfdBfRsv-XIqs19-K6myIofJDFtRoCYI4QAvD_BwE)
+- 🚀 I am currently employed as a consultant at Fiserv, where I work on the financial platform [Portal Carat](https://www.fiserv.com.br/carat/?utm_source=Google&utm_medium=Paid&utm_campaign=Carat&utm_term=AD_Carat_Google_Search_Conversao_Produto&utm_content=search-responsivo&gclid=CjwKCAjw4ZWkBhA4EiwAVJXwqSOAVHzwldyzr2-BCKCMYYHxn9SfdBfRsv-XIqs19-K6myIofJDFtRoCYI4QAvD_BwE)
 
 - ⚡ I participated in the development of plataform [Skill Hunter](https://skillhunter.com.br/)
 
-- 🔥 I participated in the development of [Design System](https://ds.firedev.com.br/)
+- 🔥 I actively contributed to the development of the Skill Hunter platform and played a key role in the creation of the [Design System](https://ds.firedev.com.br/)
 
-- 📫 How to reach me **camboimguilherme@gmail.com**
+- 📫 If you need to get in touch with me, feel free to reach out at **camboimguilherme@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

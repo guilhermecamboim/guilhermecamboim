@@ -1,5 +1,4 @@
 <h1 align="center">Hello World! 👋, I'm Guilherme Camboim</h1>
-<h3 align="center">Chemical Engineer creating solutions as Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermecamboim&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermecamboim" /> </p>
 
